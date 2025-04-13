@@ -27,11 +27,9 @@ Whether you're a retail investor, data analyst, or financial enthusiast, this AI
 ## 🧰 Tech Stack
 
 - **LLMs**: OpenAI GPT-4 / GPT-3.5 (LangChain-powered)
-- **Agent Framework**: LangChain Agent + Tools
+- **Agent Framework**: phidata Agent + Tools
 - **Python Libraries**: `yfinance`, `pandas`, `matplotlib`, `plotly`, `requests`, `bs4`, `streamlit`
-- **Visualization**: Matplotlib, Plotly
-- **UI**: Streamlit
-- **Memory & Context**: LangChain Memory
+- **Memory & Context**: phidata Memory
 
 ---
 

@@ -2,7 +2,6 @@
 
 # 💰 Finance Agentic AI
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
 

@@ -42,16 +42,6 @@ Whether you're a retail investor, data analyst, or financial enthusiast, this AI
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hariharan-anbumurugan/Finance-Agentic-AI/main/screenshots/dashboard.png" width="700"/>
-</p>
-<p align="center">
-  <i>Interactive Streamlit UI for querying and visualizing insights</i>
-</p>
-
----
 
 ## 🏗️ Project Structure
 

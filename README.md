@@ -1,6 +1,4 @@
-Awesome! Here's a fantastic and professional README for your **Finance Agentic AI** project that you can use or tweak as needed for your GitHub:
 
----
 
 # 💰 Finance Agentic AI
 

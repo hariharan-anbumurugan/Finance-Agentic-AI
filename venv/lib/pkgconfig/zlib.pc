@@ -1,0 +1,13 @@
+prefix=/Users/hariharana/Desktop/agentic ai/venv
+exec_prefix=/Users/hariharana/Desktop/agentic ai/venv
+libdir=/Users/hariharana/Desktop/agentic ai/venv/lib
+sharedlibdir=/Users/hariharana/Desktop/agentic ai/venv/lib
+includedir=/Users/hariharana/Desktop/agentic ai/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
